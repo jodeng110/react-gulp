@@ -1,0 +1,23 @@
+{
+  "name": "react-study",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Jennifer Cho <jennifer.cho@udptechnology.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jodeng110/react-study",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0",
+    "jquery": "^3.0.0",
+    "babel": "*",
+    "remarkable": "^1.6.2"
+  }
+}
