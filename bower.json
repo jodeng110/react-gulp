@@ -1,9 +1,8 @@
 {
   "name": "react-study",
   "description": "",
-  "main": "server.js",
   "authors": [
-    "Jennifer Cho <jennifer.cho@udptechnology.com>"
+    "Jodeng <jodeng110@gmail.>"
   ],
   "license": "ISC",
   "homepage": "https://github.com/jodeng110/react-study",
