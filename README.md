@@ -1,4 +1,4 @@
-# react-study
+# reactjs tutorial + gulp
 
 > React Tutorial with Gulp
 
