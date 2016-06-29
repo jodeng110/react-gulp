@@ -5,28 +5,30 @@
 ## Usage
 
 ```
-git clone git@github.com:jodeng110/react-study.git <my-new-name>
+$ git clone git@github.com:jodeng110/react-study.git <my-new-project>
 ```
 
 ```
-cd <my-new-name>
+$ cd <my-new-project>
 ```
 
 ### Install
 
 ```
-npm install -g gulp-cli bower
+$ npm install -g gulp bower
 ```
 
 ```
-npm install
+$ npm install
 ```
 
 ```
-bower install
+$ bower install
 ```
 
 ### Run
 ```
-gulp develop
+$ gulp develop
 ```
+
+open Web Browser : http://localhost:3000/
